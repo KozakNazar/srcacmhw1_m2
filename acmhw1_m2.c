@@ -132,6 +132,6 @@ int main(){
 		printf("DFA: no finit state\r\n");
 	}
 
-	getchar();
+	(void)getchar();
 	return 0;
 }
